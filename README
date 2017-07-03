@@ -1,0 +1,7 @@
+Nogo is an implementation of Atari Go, a two-player game where players place
+stones on a board. Information for how to play the game can be found within
+the assignment specification in ass1_spec.pdf.
+
+The specification is copyright (C) Joel Fenwick 2016, and licensed under 
+https://creativecommons.org/licences/by-nd/4.0/. It was originally made
+available at https://www.github.com/joelfenwick/teaching/.
